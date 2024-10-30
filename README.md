@@ -8,9 +8,9 @@
 
 ###
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?user=MattiaFoglia&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=MattiaFoglia&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MattiaFoglia&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?user=MattiaFoglia&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaFoglia&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MattiaFoglia&theme=default_repocard&no-frame=true&no-bg=false&margin-w=4)
