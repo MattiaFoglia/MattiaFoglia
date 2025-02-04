@@ -4,6 +4,7 @@
 
 <img src="https://github.com/MattiaFoglia/MattiaFoglia/blob/main/Screenshot_2025-02-04-13-30-18-954_com.miui.gallery.jpg" width="1" height="1"/>
 <img src="https://github.com/MattiaFoglia/MattiaFoglia/blob/main/1738672527715.jpg" width="1" height="1"/>
+
 ###
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MattiaFoglia&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
